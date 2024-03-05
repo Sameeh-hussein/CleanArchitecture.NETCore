@@ -11,7 +11,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\Member.Application\Member.Application.csproj" />
+    <ProjectReference Include="..\Member.DataAccess\Member.DataAccess.csproj" />
+    <ProjectReference Include="..\Member.Domain\Member.Domain.csproj" />
   </ItemGroup>
 
 </Project>
