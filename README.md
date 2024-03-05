@@ -1,1 +1,1 @@
-# Simple Web API project in ASP.NET with Clean Architicture Approuch
+## Simple Web API project in ASP.NET with Clean Architecture Approach
